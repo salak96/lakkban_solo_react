@@ -75,7 +75,7 @@ export function Contact() {
                 <div className="flex items-start">
                   <MapPin className="h-6 w-6 text-blue-600 mr-3" />
                   <p className="text-gray-600">
-                   Industrial Lakban Solo<br />
+                   Industrial LAKBAN KHINKO<br />
                     Solo, Central Java<br />
                     Indonesia
                   </p>

@@ -9,7 +9,7 @@ export function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Package className="h-8 w-8 text-blue-400" />
-              <span className="text-xl font-bold">Lakban Solo</span>
+              <span className="text-xl font-bold">LAKBAN KHINKO</span>
             </div>
             <p className="text-gray-400">
               Mitra terpercaya Anda dalam solusi perekat sejak tahun 2000.
@@ -51,7 +51,7 @@ export function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; 2025 Lakban Solo. All rights reserved.</p>
+          <p>&copy; 2025 LAKBAN KHINKO. All rights reserved.</p>
         </div>
       </div>
     </footer>

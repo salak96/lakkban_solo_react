@@ -7,7 +7,7 @@ export function Navigation() {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center space-x-2">
           <Package className="h-8 w-8 text-blue-600" />
-          <span className="text-xl font-bold text-gray-800">Lakban Solo</span>
+          <span className="text-xl font-bold text-gray-800">LAKBAN KHINKO</span>
         </div>
         <div className="hidden md:flex space-x-8">
           <a href="#home" className="text-gray-600 hover:text-blue-600">Home</a>

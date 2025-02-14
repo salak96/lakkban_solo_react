@@ -6,7 +6,7 @@ export function About() {
     <section id="about" className="py-20 bg-white">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">About Lakban Solo</h2>
+          <h2 className="text-3xl font-bold text-gray-900 mb-4">About LAKBAN KHINKO</h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
           Dengan pengalaman lebih dari dua dekade, kami telah memantapkan diri sebagai produsen terkemuka
           solusi perekat premium, melayani industri di seluruh dunia.

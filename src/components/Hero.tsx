@@ -7,18 +7,18 @@ export function Hero() {
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-10 md:mb-0">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-           LAKBAN SOLO PREMIUM
+           LAKBAN KHINKO PREMIUM
           </h1>
           <p className="text-lg text-gray-600 mb-8">
           Produk ini merupakan salah satu produk unggulan milik kami. Dibuat dengan teknik dan kualitas bahan yang baik. Produk ini dijual dengan harga cukup terjangkau, sehingga produk ini mampu bersaing di kalangan masyarakat Indonesia yang bersifat konsumtif.
           </p>
           <div className="flex space-x-4">
             <button className="bg-blue-600 text-white px-8 py-3 rounded-full hover:bg-blue-700 transition duration-300 flex items-center">
-              Explore Products
+              Order Now
               <ArrowRight className="ml-2 h-5 w-5" />
             </button>
             <button className="border-2 border-blue-600 text-blue-600 px-8 py-3 rounded-full hover:bg-blue-50 transition duration-300">
-              Learn More
+              <a href='#products'>Detail Produk</a> 
             </button>
           </div>
         </div>

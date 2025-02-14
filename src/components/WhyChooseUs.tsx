@@ -11,7 +11,7 @@ const benefits = [
 
 const testimonials = [
   {
-    text: "Produk-produk Lakban Solo secara konsisten melampaui ekspektasi kami. Perhatian mereka terhadap kualitas tidak tertandingi.",
+    text: "Produk-produk LAKBAN KHINKO secara konsisten melampaui ekspektasi kami. Perhatian mereka terhadap kualitas tidak tertandingi.",
     author: "Budi Santoso",
     company: "PT KIKY"
   },
